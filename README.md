@@ -1,2 +1,2 @@
 # Landing-Page
-TheOdinProject Landing Page
+TheOdinProject - LandingPage
