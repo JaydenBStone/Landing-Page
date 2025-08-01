@@ -51,7 +51,6 @@ li {
   padding: 50px 50px;
 }
 
-
 .info-text,
 .info-image {
   width: 50%;
@@ -82,7 +81,6 @@ li {
   background-color: #3882F6;
   color: white;
   border: none;
-
 }
 
 .info-title {
@@ -103,8 +101,12 @@ li {
 }
 
 .box {
-  background-color: blue;
-  margin: 10px;
+  background-color: white;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: #3882F6;
+  border-style: solid;
+  margin: 20px;
   width: 150px;
   height: 150px;
 }
@@ -116,11 +118,9 @@ li {
   color: #1F2937;
 }
 
-
-
 .box-subheading {
   display: flex;
-  margin: 10px;
+  margin: 20px;
   text-align: center;
   width: 150px;
   overflow-wrap: break-word;
@@ -182,7 +182,6 @@ li {
   font-weight: 700;
   color: white;
 }
-
 
 .linetwo {
   font-size: large;
